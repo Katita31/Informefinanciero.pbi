@@ -1,0 +1,20 @@
+# 📊 Power BI - Informe Financiero  
+
+Este proyecto es un **dashboard financiero** desarrollado en **Power BI**, basado en un análisis de profit y ventas segmentadas.  
+
+## 📌 Descripción  
+El informe incluye:  
+- 🌍 **Profit por país** (mapa interactivo).  
+- 📈 **Ganancias por año y mes**.  
+- 📊 **Ventas por producto y segmento**.  
+
+En los archivos, encontrarás el panel con el dashboard, la imágen de éste, y el archivo excel.
+
+El objetivo de este dashboard es identificar patrones de crecimiento, analizar tendencias y facilitar la toma de decisiones con visualizaciones claras y dinámicas.  
+
+## 🛠️ Medidas DAX utilizadas  
+Para mejorar el análisis de los datos, agregué las siguientes medidas en **DAX**:  
+
+- **Total Unidades Vendidas**  
+  ```DAX
+  Total Unidades Vendidas = SUM(financials[Units Sold])
