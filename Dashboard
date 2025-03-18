@@ -18,3 +18,25 @@ Para mejorar el análisis de los datos, agregué las siguientes medidas en **DAX
 - **Total Unidades Vendidas**  
   ```DAX
   Total Unidades Vendidas = SUM(financials[Units Sold])
+
+Calendario (tabla de fechas personalizada)
+Calendario = CALENDAR(DATE(2013,01,01), DATE(2014,12,31))
+
+
+Estas medidas ayudan a realizar cálculos más precisos y a estructurar el modelo de datos para un mejor análisis temporal.
+📚 ¿Cómo se creó?
+
+Me guié con este tutorial oficial de Microsoft ➡️ Power BI Stunning Report
+🚀 Requisitos
+
+Para visualizar y editar el informe, necesitas:
+
+    Power BI Desktop instalado.
+    Descargar el archivo .pbix de este repositorio.
+
+📷 Capturas
+
+💡 ¿Ideas o sugerencias?
+Si tienes recomendaciones o mejoras para este dashboard, ¡déjalas en la sección de Issues o haz un Pull Request!
+🔗 Sígueme en LinkedIn: https://www.linkedin.com/in/kattyacontrerasv/
+🔗 Sígueme en LinkedIn:
