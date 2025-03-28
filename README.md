@@ -30,7 +30,6 @@
 ---
 ## 📬 Contacto Profesional
 
-[![Email](https://img.shields.io/badge/📧-kattya.contreras@email.com-blueviolet?style=flat-square)](mailto:kattya.contreras@email.com)
-[![LinkedIn](https://img.shields.io/badge/🔗-kattyacontrerasv-0077B5?style=flat-square)](https://www.linkedin.com/in/kattyacontrerasv/)
-
+[<img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" alt="LinkedIn" width="16"/> LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/)  
+[<img src="https://img.icons8.com/ios-filled/24/000000/email.png" alt="Email" width="16"/> Email](mailto:kattya.contreras@email.com)
 ---
