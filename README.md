@@ -29,13 +29,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Advanced-5C2D91)
 ![License](https://img.shields.io/badge/Licencia-MIT-success)
 
-## 📍 Contacto
-
 **Kattya Contreras**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattyacontrerasv/)
-[![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:kattya.contreras@email.com)
-
 ---
 ## ✉️ Contacto
 **Connect with me:**  
