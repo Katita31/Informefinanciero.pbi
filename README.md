@@ -14,16 +14,24 @@
 | 📅 Análisis Temporal | Tendencia mensual/anual | DAX Time Intelligence |
 | 🏷 Segmentación | Ventas por producto/mercado | Hierarchies & Drill-through |
 
-## 🖼 Vista Previa
-![Dashboard Completo](Imágen%20resúmen%20financiero.png)
+# 📊 Dashboard Financiero - Power BI
 
-## 🔍 **Hallazgos Clave**
+<img width="694" alt="Imágen resúmen financiero" src="https://github.com/user-attachments/assets/2dd2671f-35e4-4ace-a374-e48b575bd44d" />
 
-### 🌎 Profit por Región
-- **AMÉRICA DEL NORTE**: Mayor contribución (62% del profit total)
-- **EUROPA**: Segundo lugar (28%)
-- **ÁFRICA/ATLÁNTICO**: Crecimiento del 15% interanual
+## 🔎 Análisis Destacado
 
+### Distribución Geográfica
+- **América del Norte**: 58% del profit total
+- **Europa**: 28% del profit
+- **África/Atlántico**: 14% con crecimiento del 15% YoY
+
+### Tendencias Clave
+```dax
+// Cálculo de variación mensual
+Variación_Mensual = 
+VAR VentasActuales = [Ventas]
+VAR VentasPrevias = CALCULATE([Ventas], PREVIOUSMONTH(DimFecha[Fecha]))
+RETURN DIVIDE(VentasActuales - VentasPrevias, VentasPrevias, 0)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-2023+-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-5C2D91)
