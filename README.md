@@ -40,6 +40,13 @@ RETURN DIVIDE(VentasActuales - VentasPrevias, VentasPrevias, 0)
 **Kattya Contreras**  
 ---
 ## ✉️ Contacto
-**Connect with me:**  
+**Connect with me:**
+ 
 [<img src="https://img.icons8.com/ios-filled/24/000000/linkedin.png" alt="LinkedIn" width="16"/> LinkedIn](https://www.linkedin.com/in/kattyacontrerasv/)  
 [<img src="https://img.icons8.com/ios-filled/24/000000/email.png" alt="Email" width="16"/> Email](mailto:kattya.contreras@email.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kattyacontrerasv/)
+[![Email](https://img.shields.io/badge/-Email-8B89CC?style=flat&logo=mail.ru&logoColor=white)](mailto:kattya.contreras@email.com)
+
+---
